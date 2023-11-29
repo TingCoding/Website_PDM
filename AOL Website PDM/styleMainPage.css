@@ -1,0 +1,31 @@
+h1 {
+    top: 0;
+    left: 0;
+    right: 0;
+    color: rgb(169, 144, 122);
+    font-size: 50px;
+    text-align: center;
+    border-style: double;
+    border-color: #00ffff;
+}
+
+.line {
+    border-right: double;
+    height: 500px;
+    width: 150px; 
+    border-color: aqua;
+}
+
+.line .left .AboutUs {
+    background-color: rgb(224, 234, 225);
+    color: rgb(241, 45, 45);
+    font-style: italic;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 90px;
+    margin-left: 20px;
+}
+

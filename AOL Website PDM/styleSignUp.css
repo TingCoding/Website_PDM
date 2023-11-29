@@ -1,0 +1,15 @@
+h1 {
+    top: 0;
+    left: 0;
+    right: 0;
+    color: rgb(169, 144, 122);
+    font-size: 50px;
+    text-align: center;
+    border-bottom: 3px solid rgb(233, 42, 138);
+}
+
+.SignUp {
+    border-bottom: 1px solid red;
+    font-style: oblique;
+    color: violet;
+}
